@@ -2,7 +2,7 @@
   "name": "chars-creator",
   "version": "0.1.0",
   "private": true,
-	"homepage": "https://renatoj.github.io/chars-creator"
+	"homepage": "https://renatoj.github.io/chars-creator",
   "dependencies": {
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
